@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="main.qml">/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/mediaplayer/main.qml</file>
+    <file alias="PlaybackControl.qml">/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/mediaplayer/PlaybackControl.qml</file>
+    <file alias="MetadataInfo.qml">/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/mediaplayer/MetadataInfo.qml</file>
+    <file alias="AudioControl.qml">/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/mediaplayer/AudioControl.qml</file>
+    <file alias="PlaybackSeekControl.qml">/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/mediaplayer/PlaybackSeekControl.qml</file>
+    <file alias="PlaybackRateControl.qml">/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/mediaplayer/PlaybackRateControl.qml</file>
+    <file alias="PlayerMenuBar.qml">/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/mediaplayer/PlayerMenuBar.qml</file>
+    <file alias="TracksInfo.qml">/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/mediaplayer/TracksInfo.qml</file>
+    <file alias="Mute_Icon.svg">/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/mediaplayer/Mute_Icon.svg</file>
+    <file alias="Speaker_Icon.svg">/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/mediaplayer/Speaker_Icon.svg</file>
+  </qresource>
+</RCC>
+

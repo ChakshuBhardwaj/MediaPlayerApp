@@ -1,0 +1,1 @@
+/usr/examples/multimedia/video/mediaplayer/mediaplayer

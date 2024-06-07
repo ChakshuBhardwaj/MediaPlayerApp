@@ -1,0 +1,11 @@
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/CMakeFiles/mediaplayer.dir
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/CMakeFiles/mediaplayer_other_files.dir
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/CMakeFiles/mediaplayer_qmlimportscan.dir
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/CMakeFiles/edit_cache.dir
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/CMakeFiles/rebuild_cache.dir
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/CMakeFiles/list_install_components.dir
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/CMakeFiles/install.dir
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/CMakeFiles/install/local.dir
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/CMakeFiles/install/strip.dir
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/CMakeFiles/mediaplayer_autogen_timestamp_deps.dir
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/CMakeFiles/mediaplayer_autogen.dir

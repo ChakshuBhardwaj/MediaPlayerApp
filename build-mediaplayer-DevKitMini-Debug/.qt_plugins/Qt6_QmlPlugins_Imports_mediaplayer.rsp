@@ -1,0 +1,11 @@
+-rootPath
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/mediaplayer
+-cmake-output
+-output-file
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_mediaplayer.cmake
+-importPath
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug
+-importPath
+/home/linuxdev/Qt/6.4.3/Boot2Qt/imx8mm-var-dart/toolchain/sysroots/armv8a-poky-linux/usr/lib/qml
+-qrcFiles
+/home/linuxdev/Qt/Examples/Qt-6.4.3/multimedia/video/build-mediaplayer-DevKitMini-Debug/.rcc/mediaplayer.qrc
